@@ -1,5 +1,4 @@
 # Laverna Docker
-## By Elliot J. Reed
 
 # About 
 
