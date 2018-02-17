@@ -1,4 +1,4 @@
-version: "3.2"
+version: "3.5"
 
 services:
     laverna:
@@ -7,7 +7,7 @@ services:
         ports:
             - "5000:80"
         networks:
-            - laverna-network
+            - laverna
 
 networks:
-    laverna-network:
+    laverna:
