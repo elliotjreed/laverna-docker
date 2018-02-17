@@ -1,5 +1,17 @@
 # Laverna Docker
 
+To run, either build yourself running:
+```
+./build.sh
+docker-compose up
+```
+
+or run the built image directly:
+
+```
+docker run elliotjreed/laverna
+```
+
 # About 
 
 From Laverna:
