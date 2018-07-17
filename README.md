@@ -1,6 +1,8 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Felliotjreed%2Flaverna-docker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Felliotjreed%2Flaverna-docker?ref=badge_shield)
 
 # Laverna Docker
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Felliotjreed%2Flaverna-docker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Felliotjreed%2Flaverna-docker?ref=badge_shield)
+
 
 To run, either build yourself running:
 ```
@@ -37,3 +39,7 @@ _The application stores all your notes in your browser databases such as indexed
 * Web based
 * Keybindings
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Felliotjreed%2Flaverna-docker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Felliotjreed%2Flaverna-docker?ref=badge_large)
