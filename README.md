@@ -4,7 +4,6 @@
 
 To run, either build yourself running:
 ```
-./build.sh
 docker-compose up
 ```
 
