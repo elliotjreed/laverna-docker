@@ -3,7 +3,7 @@ version: "3.6"
 services:
     laverna:
         container_name: laverna
-        build: ./laverna
+        build: .
         ports:
             - "5000:80"
         networks:
